@@ -3,4 +3,4 @@ const SayName = (name) =>{
 }
 
 module.exports=SayName
-// console.log(module);
+console.log(SayName("Hemanth hi"))
